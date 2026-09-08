@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "text": "newer task",
+      "day": "NOW",
+      "reminder": false,
+      "id": "px83PF94DfU"
+    },
+    {
+      "text": "New Task",
+      "day": "DEC 13 2005",
+      "reminder": false,
+      "id": "MOm3ZsGyq5o"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
